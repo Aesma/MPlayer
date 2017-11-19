@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <name>OGGPlayerPlugin</name>
+    <class>com.Rengar.Plugins.ogg.OGGPlayerPlugin</class>
+    <type>ogg</type>
+</plugin>

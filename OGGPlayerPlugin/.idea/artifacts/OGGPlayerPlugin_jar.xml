@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="OGGPlayerPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OGGPlayerPlugin_jar</output-path>
+    <root id="root">
+      <element id="archive" name="OGGPlayerPlugin.jar">
+        <element id="module-output" name="OGGPlayerPlugin" />
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/src/lib/plugin.xml" />
+        </element>
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/src/lib/vorbisspi-1.0.3-1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/lib/tritonus-share-0.3.7-2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/lib/jorbis-0.0.17-2.jar" />
+    </root>
+  </artifact>
+</component>

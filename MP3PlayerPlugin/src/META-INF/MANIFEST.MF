@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: jl1.0.1.jar
+Main-Class: com.Rengar.Plugins.mp3.MP3PlayerPlugin
+

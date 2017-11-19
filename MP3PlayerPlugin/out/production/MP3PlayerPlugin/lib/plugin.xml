@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <name>MP3PlayerPlugin</name>
+    <class>com.Rengar.Plugins.mp3.MP3PlayerPlugin</class>
+    <type>mp3</type>
+</plugin>

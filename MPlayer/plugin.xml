@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugins>
+	<plugin>
+		<name>MP3PlayerPlugin</name>
+		<jar>C:\Users\67683\IdeaProjects\MP3PlayerPlugin\out\artifacts\MP3PlayerPlugin_jar\MP3PlayerPlugin.jar</jar>
+		<class>com.Rengar.Plugins.mp3.MP3PlayerPlugin</class>
+		<type>mp3</type>
+	</plugin>
+	<plugin>
+		<name>OGGPlayerPlugin</name>
+		<jar>C:\Users\67683\IdeaProjects\OGGPlayerPlugin\out\artifacts\OGGPlayerPlugin_jar\OGGPlayerPlugin.jar</jar>
+		<class>com.Rengar.Plugins.ogg.OGGPlayerPlugin</class>
+		<type>ogg</type>
+	</plugin>
+	<plugin>
+		<name>WAVPlayerPlugin</name>
+		<jar>C:\Users\67683\IdeaProjects\WAVPlayerPlugin\out\artifacts\WAVPlayerPlugin_jar\WAVPlayerPlugin.jar</jar>
+		<class>com.Rengar.Plugins.wav.WAVPlayerPlugin</class>
+		<type>wav</type>
+	</plugin>
+</plugins>

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="MPlayer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MPlayer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="MPlayer.jar">
+        <element id="module-output" name="MPlayer" />
+      </element>
+      <element id="directory" name="libs">
+        <element id="file-copy" path="$PROJECT_DIR$/res/dom4j-2.1.0.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>

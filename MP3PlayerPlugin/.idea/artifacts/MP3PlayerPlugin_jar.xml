@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="MP3PlayerPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MP3PlayerPlugin_jar</output-path>
+    <root id="root">
+      <element id="archive" name="MP3PlayerPlugin.jar">
+        <element id="module-output" name="MP3PlayerPlugin" />
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/src/lib/plugin.xml" />
+        </element>
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/src/lib/jl1.0.1.jar" />
+    </root>
+  </artifact>
+</component>
